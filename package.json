@@ -1,0 +1,26 @@
+{
+  "name": "jest-workshop",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vertygo/jest-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vertygo/jest-workshop/issues"
+  },
+  "homepage": "https://github.com/Vertygo/jest-workshop#readme",
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
